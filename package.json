@@ -1,0 +1,17 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sunly",
+  "license": "MIT",
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1",
+    "@types/node": "^18.11.7",
+    "typescript": "^4.8.4"
+  }
+}
